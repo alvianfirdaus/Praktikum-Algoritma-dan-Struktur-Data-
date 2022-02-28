@@ -40,7 +40,7 @@ Berdasarkan diagram class di atas, akan dibuat program class dalam Java.
     >membuat Project dengan nama StrukturData
     >>![](Images/2.png)
     >membuat paket dengan nama minggu2
-    >><img src = "Images/3.png">
+    >><img src = "Images/3.PNG">
     >membuat class dengan nama "barang"
     >><img src = "Images/4.png">
 <br>
