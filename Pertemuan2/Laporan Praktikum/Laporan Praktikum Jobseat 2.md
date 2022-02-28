@@ -2,7 +2,7 @@
 # **Jobseat 2 Objeck**
 
 ## **Data Mahasiswa**
-><center><img src = "images/29.jpg" width ="100"></center>
+><center><img src = "Images/29.jpg" width ="100"></center>
 
 ><p>Nama : Alvian Nur Firdaus<p>
 >Kelas : 1F<p>
@@ -28,7 +28,7 @@ Waktu : 45 Menit
 
 Perhatikan Diagram Class berikut ini:
 
-<center><img src = "images/1.png"></center>
+<center><img src = "Images/1.png"></center>
 
 <br>
 
