@@ -38,7 +38,7 @@ Berdasarkan diagram class di atas, akan dibuat program class dalam Java.
 1. Buat Project baru, dengan nama StrukturData. Buat paket dengan nama minggu2, buatlah class baru dengan nama Barang.
 
     >membuat Project dengan nama StrukturData
-    >><img src = "Images/2.png">
+    >><img src = "Images/2.png"width ="100">
     >membuat paket dengan nama minggu2
     >><img src = "Images/3.png">
     >membuat class dengan nama "barang"
