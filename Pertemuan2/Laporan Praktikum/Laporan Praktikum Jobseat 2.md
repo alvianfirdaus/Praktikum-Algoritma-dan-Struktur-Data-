@@ -28,7 +28,7 @@ Waktu : 45 Menit
 
 Perhatikan Diagram Class berikut ini:
 
-![]<https://github.com/alvianfirdaus/Praktikum-Algoritma-dan-Struktur-Data-/blob/e1ce91cad154f019fa9f4ad7a54c56f986076231/Pertemuan2/Laporan%20Praktikum/Images/1.PNG>
+![logo]<https://github.com/alvianfirdaus/Praktikum-Algoritma-dan-Struktur-Data-/blob/e1ce91cad154f019fa9f4ad7a54c56f986076231/Pertemuan2/Laporan%20Praktikum/Images/1.PNG>
 
 <br>
 
