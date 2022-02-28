@@ -28,7 +28,7 @@ Waktu : 45 Menit
 
 Perhatikan Diagram Class berikut ini:
 
-<center><img src = "Images/1.png"></center>
+<center><img src = "Images/1.png" width ="100"></center>
 
 <br>
 
