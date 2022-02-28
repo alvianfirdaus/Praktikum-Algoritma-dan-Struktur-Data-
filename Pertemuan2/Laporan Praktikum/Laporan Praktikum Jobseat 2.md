@@ -38,11 +38,11 @@ Berdasarkan diagram class di atas, akan dibuat program class dalam Java.
 1. Buat Project baru, dengan nama StrukturData. Buat paket dengan nama minggu2, buatlah class baru dengan nama Barang.
 
     >membuat Project dengan nama StrukturData
-    >><img src = "images/2.png">
+    >><img src = "Images/2.png">
     >membuat paket dengan nama minggu2
-    >><img src = "images/3.png">
+    >><img src = "Images/3.png">
     >membuat class dengan nama "barang"
-    >><img src = "images/4.png">
+    >><img src = "Images/4.png">
 <br>
 
 2. Lengkapi class Barang dengan atribut dan method yang telah digambarkan di dalam diagram class di atas, sebagai berikut:
@@ -80,14 +80,14 @@ public class barang {
 
 3. Coba jalankan (Run) class Barang tersebut. Apakah bisa?
     >Terdapat peringatan seperti berikut   
-    >><img src = "images/5.png">
+    >><img src = "Images/5.png">
 
 <br>
 
 ## 2.2.2 Verifikasi Hasil Percobaan
 Cocokkan hasil compile kode program anda dengan gambar berikut ini.
 > iya cocok dengan yang di jobseat dan berikut adalah hasil verivikasinnya  
->><img src = "images/5.png">
+>><img src = "Images/5.png">
 
 <br>
 
@@ -103,7 +103,7 @@ Cocokkan hasil compile kode program anda dengan gambar berikut ini.
 2. Kata kunci apakah yang digunakan untuk mendeklarasikan class?
     >**Jawab** <p>
     >Dengan menuliskan seperti berikut ini 
-    >><img src = "images/6.png">
+    >><img src = "Images/6.png">
     
     <br>
 3. Perhatikan class Barang yang ada di Praktikum di atas, ada berapa atribut yang dimiliki oleh class tersebut? Sebutkan! Dan pada baris berapa saja deklarasi atribut dilakukan?
@@ -129,7 +129,7 @@ Cocokkan hasil compile kode program anda dengan gambar berikut ini.
     <br>
 5. Perhatikan method kurangiStok() yang ada di class Barang, modifikasi isi method tersebut sehingga proses pengurangan hanya dilakukan jika stok masih ada (masih lebih besar dari 0)
     >**Jawab** <p>
-    ><img src = "images/7.png">
+    ><img src = "Images/7.png">
     
     <br>
 6. Menurut Anda, mengapa method tambahStok() dibuat dengan memiliki 1 parameter berupa bilangan int?
@@ -157,7 +157,7 @@ Sampai tahap ini, kita telah membuat class Barang dengan sukses. Selanjutnya, ap
 
 1. Di dalam paket minggu2, buatlah class baru dengan nama BarangMain. Dan di dalam class BarangMain tersebut, buatlah method main().
     >membuat class main dengan nama "BarangMain"
-    >><img src = "images/8.png">
+    >><img src = "Images/8.png">
 
     <br>
 2. Di dalam method main(), lakukan instansiasi, dan kemudian lanjutkan dengan mengakses atribut dan method dari objek yang telah terbentuk.
@@ -192,12 +192,12 @@ public class BarangMain {
 <br>
 
 3. Jalankan (Run) class BarangMain tersebut dan amati hasilnya.
-    ><img src = "images/9.png">
+    ><img src = "Images/9.png">
 
 ## 2.3.2 Verifikasi Hasil Percobaan
 Cocokkan hasil compile kode program anda dengan gambar berikut ini.
 >Iya cocok 
->><img src = "images/run1.png">
+>><img src = "Images/run1.png">
 
 <br>
 
@@ -205,14 +205,14 @@ Cocokkan hasil compile kode program anda dengan gambar berikut ini.
 1. Pada class BarangMain, pada baris berapakah proses instansiasi dilakukan? Dan apa nama objek yang dihasilkan?
     >**Jawab** <p>
     >didalam netbeans saya menunjukan pada baris ke 19 dan nama objeck yang dihasilkan adalah "bl"
-    >><img src = "images/10.png">
+    >><img src = "Images/10.png">
 
     <br>
 2. Bagaimana cara mengakses atribut dan method dari suatu objek?
     >**Jawab** <p>
     >Dengan menuliskan seperti gambar dibawah ini 
-    >><img src = "images/11.png">
-    >><p><img src = "images/12.png">
+    >><img src = "Images/11.png">
+    >><p><img src = "Images/12.png">
 
 ## 2.4 Membuat Konstruktor
 Waktu : 45 Menit
@@ -304,24 +304,24 @@ public class BarangMain {
 <br>
 
 3. Jalankan kembali class BarangMain dan amati hasilnya.
-<img src = "images/13.png">
+<img src = "Images/13.png">
 
 <br>
 
 ## 2.4.2 Verifikasi Hasil Percobaan
 Cocokkan hasil compile kode program anda dengan gambar berikut ini.
 >iya cocok seperti di jobseat
->><img src = "images/14.png">
+>><img src = "Images/14.png">
 
 ## 2.4.3 Pertanyaan
 1. Perhatikan class Barang yang ada di Praktikum 2.4.1, pada baris berapakah deklarasi konstruktor berparameter dilakukan?
     >**Jawab** <p>
     >pada Baris ke 18 seperti pada gambar dibawah ini
-    >><img src = "images/16.png">
+    >><img src = "Images/16.png">
 
     <br>
 2. Perhatikan class BarangMain di Praktikum 2.4.1, apa sebenarnya yang dilakukan pada baris program dibawah ini?
-    <img src = "images/15.png">
+    <img src = "Images/15.png">
     
     >**Jawab** <p>
     >Melakukan instansiasi pembuatan objek dengan nama b2. serta menggunakan konstruktor berparameter yang langsung diisi nilai. tapi jika menggunakan konstruktor tersebut harus mengingat letak masing masing dari isi atribut
@@ -364,7 +364,7 @@ public class BarangMain {
 <br>
     <p>hasil output
 
-<img src = "images/17.png">
+<img src = "Images/17.png">
 
 <br>
 
@@ -372,7 +372,7 @@ public class BarangMain {
 Waktu : 60 Menit
 
 1. Buat program berdasarkan diagram class berikut ini!
-<center><img src = "images/18.png"></center>
+<center><img src = "Images/18.png"></center>
 
 - Method hitungHargaTotal() digunakan untuk menghitung harga total yang merupakan perkalian antara hargaSatuan dengan jumlah barang yang dibeli
 - Method hitungDiskon() digunakan untuk menghitung diskon dengan aturan sbb:
@@ -384,7 +384,7 @@ Waktu : 60 Menit
 
 >**Jawab**<p>
 >pertama tama disini saya membuat nama project dengan nama "Jobseat2". selanjutnya membuat package dengan nama "LatihanPraktikum". kemudian membuat class dengan nama "BarangLatihan1"
->> <img src = "images/19.png">
+>> <img src = "Images/19.png">
 >selanjutnya saya memasukkan kode program clas. kode program class "BarangLatihan1" adalah seperti berikut
 ``` java
 package LatihanPraktikum;
@@ -459,14 +459,14 @@ public class BarangLatihan1Main {
 <br>
 
 >dengan hasil outputan seperti berikut ini
->><img src = "images/20.png">
+>><img src = "Images/20.png">
 
 <br>
 
 ---------------------------------------------
 
 2. Buat program berdasarkan diagram class berikut ini!
-<center><img src = "images/21.png"></center>
+<center><img src = "Images/21.png"></center>
 
 - Atribut x digunakan untuk menyimpan posisi koordinat x (mendatar) dari pacman, sedangkan atribut y untuk posisi koordinat y (vertikal)
 - Atribut width digunakan untuk menyimpan lebar dari area permainan, sedangkan height untuk menyimpan panjang area
@@ -475,7 +475,7 @@ public class BarangLatihan1Main {
 
 >**Jawab**<p>
 >pertama tama disini saya menggunakan nama project yang sama yaitu dengan nama "Jobseat2" yang telah kita buat sebelumnya. selanjutnya saya menambahkan package dengan nama "LatihanPraktikum2". kemudian membuat class dengan nama "PachmanLatihan2"
->><img src = "images/22.png">
+>><img src = "Images/22.png">
 >selanjutnya saya memasukkan kode program clas. kode program class "PachmanLatihan2" adalah seperti berikut
 ```java
 package LatihanPraktikum2;
