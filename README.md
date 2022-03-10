@@ -17,3 +17,5 @@ Tools yang saya gunakan
 #For more information
 - WA : 081235026920
 - email : alvianfirdaus896@gmail.com
+
+# Terima Kasih
