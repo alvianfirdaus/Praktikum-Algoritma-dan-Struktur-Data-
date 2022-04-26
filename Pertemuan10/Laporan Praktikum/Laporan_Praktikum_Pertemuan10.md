@@ -1279,5 +1279,5 @@ Setelah saya melakukan RUN kode program diatas didapatkan hasil run sama seperti
 ----------------------------
 Terima Kasih<p>
 Alvian Nur Firdaus | TI-1F | 2141720022 | Politeknik Negeri Malang<p>
-copyright @2022 
+copyright @2022 _
 _______________
