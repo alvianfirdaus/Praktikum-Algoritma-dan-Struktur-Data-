@@ -789,9 +789,12 @@ Setelah saya melakukan RUN kode program diatas didapatkan hasil run sama seperti
 
 <br>
 
+        
 3. Buatlah Implementasi Stack berikut menggunakan Single Linked List<p>
     <img src="Images/8.PNG"><p>
+        
     **Jawab**
+        
     >Membuat class "node"
     ```java
     package Tugas3;
