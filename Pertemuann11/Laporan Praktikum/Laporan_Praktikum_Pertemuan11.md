@@ -19,10 +19,12 @@ Setelah melakukan materi praktikum ini, mahasiswa mampu:
 
 <br>
 
+    
 ## **9.2 Praktikum 1**
 Waktu percobaan : 30 menit<p>
 Didalam praktikum ini, kita akan mempraktekkan bagaimana membuat Single Linked List dengan representasi data berupa Node, pengaksesan linked list dan metode penambahan data.
 
+    
 ### **9.2.1 Langkah-langkah Percobaan**
 1. Pada Project StrukturData yang sudah dibuat pada Minggu sebelumnya, buat package dengan nama minggu11
 2. Tambahkan class-class berikut:
