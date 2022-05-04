@@ -1150,9 +1150,9 @@ Setelah saya melakukan RUN kode program diatas didapatkan hasil run sama seperti
     output menu 6<p>
     <img src="Images/20.PNG"><p>
     output menu 7<p>
-    ><img src="Images/21.PNG"><p>
-    >output menu 8<p>
-    ><img src="Images/22.PNG"><p>
+    <img src="Images/21.PNG"><p>
+    output menu 8<p>
+    <img src="Images/22.PNG"><p>
 
 ----------------------------
 Terima Kasih<p>
