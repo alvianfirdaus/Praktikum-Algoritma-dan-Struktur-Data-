@@ -213,12 +213,14 @@ Setelah saya melakukan RUN kode program diatas didapatkan hasil run sama seperti
 
 <br>
 
+        
 ## **9.3  Modifikasi Elemen pada single linked list**
 Waktu percobaan : 30 menit<p>
 Didalam praktikum ini, kita akan mempraktekkan bagaimana mengakses elemen, mendapatkan indeks dan melakukan penghapusan data pada Single Linked List.:
 
 <br>
 
+    
 ### **9.3.1 Langkah-langkah Percobaan**
 1. Implementasikan method untuk mengakses data dan indeks pada linked list
 2. Tambahkan method untuk mendapatkan data pada indeks tertentu pada class Single Linked List
