@@ -379,13 +379,15 @@ Didalam praktikum ini, kita akan mempraktekkan bagaimana mengakses elemen, menda
 
 <br>
 
+    
 ### **9.3.2 Verifikasi Hasil Percobaan**
 Setelah saya melakukan RUN kode program diatas didapatkan hasil run sama seperti di Jobseat, menandakan sudah berhasil<p>
 <img src="Images/5.PNG"><p>
 
 <br>
 
-### **8.3.3 Pertanyaan**
+    
+### **9.3.3 Pertanyaan**
 1. Mengapa digunakan keyword break pada fungsi remove? Jelaskan!<p>
     > **Jawab**<p>
     >karena keyworad break tersebut berfungsi untuk menghentikan perulangan / loop. terdapat dua break yang ada pada method remove, break yang pertama berfunsgsi untuk jika data yang dihapus ada pada head dan ditemukan maka program akan langsung break, break yang kedua berfungsi untuk jika data yang dihapus berada ditengah dan ditemukan  maka program akan langsung break
