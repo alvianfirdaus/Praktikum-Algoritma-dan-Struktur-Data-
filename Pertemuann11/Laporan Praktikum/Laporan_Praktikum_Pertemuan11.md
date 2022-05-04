@@ -908,7 +908,7 @@ Setelah saya melakukan RUN kode program diatas didapatkan hasil run sama seperti
         
     class "node"
         
-    ```java
+```java
     package Tugas4;
     /**
     *
@@ -928,13 +928,13 @@ Setelah saya melakukan RUN kode program diatas didapatkan hasil run sama seperti
             this.next = berikutnya;
         }
     }
-    ```
+```
         
     class "singleLinkedList"
         
  <br>
         
-    ```java
+```java
     package Tugas4;
     /**
     *
@@ -1022,7 +1022,7 @@ Setelah saya melakukan RUN kode program diatas didapatkan hasil run sama seperti
             }
         }
     }
-    ```
+```
                                       
  <br>
         
