@@ -903,6 +903,7 @@ Setelah saya melakukan RUN kode program diatas didapatkan hasil run sama seperti
 <br>
 
 4. Buatlah implementasi program antrian untuk mengilustasikan mahasiswa yang sedang meminta tanda tangan KRS pada dosen DPA di kampus pada tugas jobsheet 8 menggunakan LinkedList. Implementasikan Queue pada antrian mahasiswa dengan menggunakan konsep LinkedList!
+        
     **Jawab**
     >class "node"
     ```java
