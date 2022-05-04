@@ -185,6 +185,7 @@ Didalam praktikum ini, kita akan mempraktekkan bagaimana membuat Single Linked L
 
 <br>
 
+        
 ### **9.3.2 Verifikasi Hasil Percobaan**
 Setelah saya melakukan RUN kode program diatas didapatkan hasil run sama seperti di Jobseat, menandakan sudah berhasil<p>
 <img src="Images/2.PNG"><p>
