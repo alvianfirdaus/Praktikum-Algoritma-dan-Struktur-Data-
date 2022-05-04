@@ -10,6 +10,7 @@
 
 <br>
 
+    
 ## **9.1 Tujuan Praktikum**
 Setelah melakukan materi praktikum ini, mahasiswa mampu:
 1. Membuat struktur data linked list
