@@ -949,7 +949,6 @@ Setelah saya melakukan RUN kode program diatas didapatkan hasil run sama seperti
         
     class "singleLinkedList"
         
- <br>
         
     ```java
     package Tugas4;
@@ -1041,7 +1040,6 @@ Setelah saya melakukan RUN kode program diatas didapatkan hasil run sama seperti
     }
     ```
                                       
- <br>
         
     main class "sllMain"
         
