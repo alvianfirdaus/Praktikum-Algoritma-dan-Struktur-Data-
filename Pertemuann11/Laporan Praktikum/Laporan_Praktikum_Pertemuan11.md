@@ -195,7 +195,8 @@ Setelah saya melakukan RUN kode program diatas didapatkan hasil run sama seperti
 
 <br>
 
-### **8.2.3 Pertanyaan**
+    
+### **9.2.3 Pertanyaan**
 1. Mengapa hasil compile kode program di baris pertama menghasilkan “Linked List Kosong”?<p>
     >**Jawab**<p>
     >karena linked list (node) masih belum memiliki isi / data, dimana pada sllMain langsung dilakukan pemanggilan method print diawal pemanggilan yang mana node masih belum di isi data sama sekali, sehingga system akan menampilkan "Linked List Kosong"
