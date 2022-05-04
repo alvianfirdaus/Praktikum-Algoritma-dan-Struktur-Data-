@@ -1028,7 +1028,7 @@ Setelah saya melakukan RUN kode program diatas didapatkan hasil run sama seperti
         
     main class "sllMain"
         
-    ```java
+```java
     package Tugas4;
     import java.util.Scanner;
     /**
@@ -1116,7 +1116,7 @@ Setelah saya melakukan RUN kode program diatas didapatkan hasil run sama seperti
         }while (pilih == 1 || pilih == 2 || pilih == 3 || pilih == 4 || pilih == 5 || pilih == 6 || pilih == 7 || pilih == 8);
     }
     }
-    ```
+```
  <br>
         
     Dengan hasil output seperti berikut<p>
