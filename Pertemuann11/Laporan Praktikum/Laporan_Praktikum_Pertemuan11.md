@@ -931,6 +931,9 @@ Setelah saya melakukan RUN kode program diatas didapatkan hasil run sama seperti
     }
     ```
     >class "singleLinkedList"
+        
+ <br>
+        
     ```java
     package Tugas4;
     /**
@@ -1020,6 +1023,9 @@ Setelah saya melakukan RUN kode program diatas didapatkan hasil run sama seperti
         }
     }
     ```
+                                      
+ <br>
+        
     >main class "sllMain"
     ```java
     package Tugas4;
@@ -1110,6 +1116,8 @@ Setelah saya melakukan RUN kode program diatas didapatkan hasil run sama seperti
     }
     }
     ```
+ <br>
+        
     >Dengan hasil output seperti berikut<p>
     >output menu 1<p> 
     ><img src="Images/14.PNG"><p>
