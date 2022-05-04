@@ -930,6 +930,7 @@ Setelah saya melakukan RUN kode program diatas didapatkan hasil run sama seperti
         }
     }
     ```
+        
     >class "singleLinkedList"
         
  <br>
@@ -1027,6 +1028,7 @@ Setelah saya melakukan RUN kode program diatas didapatkan hasil run sama seperti
  <br>
         
     >main class "sllMain"
+        
     ```java
     package Tugas4;
     import java.util.Scanner;
@@ -1118,24 +1120,24 @@ Setelah saya melakukan RUN kode program diatas didapatkan hasil run sama seperti
     ```
  <br>
         
-    >Dengan hasil output seperti berikut<p>
-    >output menu 1<p> 
-    ><img src="Images/14.PNG"><p>
-    ><img src="Images/15.PNG"><p>
-    >output menu 2<p>
-    ><img src="Images/16.PNG"><p>
-    >output menu 3<p>
-    ><img src="Images/17.PNG"><p>
-    >output menu 4<p>
-    ><img src="Images/18.PNG"><p>
-    >output menu 5<p>
-    ><img src="Images/19.PNG"><p>
-    >output menu 6<p>
-    ><img src="Images/20.PNG"><p>
-    >output menu 7<p>
-    ><img src="Images/21.PNG"><p>
-    >output menu 8<p>
-    ><img src="Images/22.PNG"><p>
+    Dengan hasil output seperti berikut<p>
+    output menu 1<p> 
+    <img src="Images/14.PNG"><p>
+    <img src="Images/15.PNG"><p>
+    output menu 2<p>
+    <img src="Images/16.PNG"><p>
+    output menu 3<p>
+    <img src="Images/17.PNG"><p>
+    output menu 4<p>
+    <img src="Images/18.PNG"><p>
+    output menu 5<p>
+    <img src="Images/19.PNG"><p>
+    output menu 6<p>
+    <img src="Images/20.PNG"><p>
+    output menu 7<p>
+    <img src="Images/21.PNG"><p>
+    output menu 8<p>
+    <img src="Images/22.PNG"><p>
 
 ----------------------------
 Terima Kasih<p>
