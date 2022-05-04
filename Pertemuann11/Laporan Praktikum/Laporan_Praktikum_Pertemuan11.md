@@ -405,9 +405,12 @@ Setelah saya melakukan RUN kode program diatas didapatkan hasil run sama seperti
 
 <br>
 
+        
 ## **9.4 Tugas**
 **Waktu pengerjaan : 50 menit**<p>
+    
 1. Buat method insertBefore untuk menambahkan node sebelum keyword yang diinginkan<p>
+    
     >**Jawab**<p>
     >Berikut adalah penambahan method "insertBefore()" yang berada pada class "singleLinkedList"
     ```java
