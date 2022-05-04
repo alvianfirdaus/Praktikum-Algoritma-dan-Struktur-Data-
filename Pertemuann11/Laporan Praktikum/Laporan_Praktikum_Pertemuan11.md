@@ -634,6 +634,7 @@ Setelah saya melakukan RUN kode program diatas didapatkan hasil run sama seperti
 
 <br>
 
+        
 2. Implementasikan ilustrasi Linked List Berikut. Gunakan 4 macam penambahan data yang telah dipelajari sebelumnya untuk menginputkan data.<p>
     <img src="Images/7.PNG"><p>
     >**Jawab**<p>
