@@ -353,7 +353,7 @@ Waktu percobaan: 45 menit
 
 ### **13.3.1 Langkah-langkah Percobaan**
 1. Di dalam percobaan implementasi binary tree dengan array ini, data tree disimpan dalam array dan langsung dimasukan dari method main(), dan selanjutnya akan disimulasikan proses traversal secara inOrder.
-2. Buatlah class BinaryTreeArray dan BinaryTreeArrayMain
+2. Buatlah class BinaryTreeArray dan BinaryTreeArrayMain<p>
     <img src="Images/6.PNG"><p>
 3. Buat atribut data dan idxLast di dalam class BinaryTreeArray. Buat juga method
 populateData() dan traverseInOrder().
