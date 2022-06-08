@@ -29,7 +29,7 @@ akan dibuat class Node, dan Class BinaryTree
 <img src="Images/1.PNG"><p>
 <img src="Images/2.PNG"><p>
 
-1. Buatlah class Node, BinaryTree dan BinaryTreeMain
+1. Buatlah class Node, BinaryTree dan BinaryTreeMain<p>
     <img src="Images/3.PNG"><p>
 2. Di dalam class Node, tambahkan atribut data, left dan right, serta konstruktor
 default dan berparameter.
